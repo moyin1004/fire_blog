@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+#cmake
+build
+
+#proto
+*.pb.h
+*.pb.cc
+
+#vscode
+.vscode
